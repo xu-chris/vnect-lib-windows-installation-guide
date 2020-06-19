@@ -356,7 +356,5 @@ cd build
 ```
 4. Run the cmake command
 ```
-cmake -G "Visual Studio 14 Win64" -C /c/Users/<your-username>/.caffe/dependencies/libraries_v140_x64_py27_1.1.0/libraries/caffe-builder-config.cmake ..
+cmake -G "Visual Studio 14 Win64" -C C:\Users\<your-username>\.caffe\dependencies\libraries_v140_x64_py27_1.1.0\libraries\caffe-builder-config.cmake ..
 ```
-
---- STOPPED HERE DUE TO ISSUES WHILE BUILDING --- 
